@@ -1,0 +1,15 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/

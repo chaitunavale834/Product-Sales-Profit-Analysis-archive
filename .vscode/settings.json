@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Baap\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "python.analysis.extraPaths": [
+    "c:\\Users\\Baap\\Desktop\\Project",
+    "c:\\Users\\Baap\\Desktop\\Project\\Product_Sales_Profit_Analysis"
+  ]
+}

@@ -1,0 +1,307 @@
+Order_ID,Order_Date,Product_ID,Product_Name,Category,Region,Quantity,Selling_Price,Cost_Price
+ORD-2024183,2024-12-24,P107,Bookshelf Cabinet,Furniture,Central,4.0,5652.5,4100.0
+ORD-2024155,2024-07-26,P112,USB-C Multiport Hub,Accessories,North,11.0,1959.02,1150.0
+ORD-2024112,2024-10-31,P106,Standing Desk,Furniture,Central,4.0,18130.0,12500.0
+ORD-2024204,2024-02-05,P105,Ergonomic Office Chair,Furniture,West,4.0,9999.0,6800.0
+ORD-2024061,2024-02-11,P107,Bookshelf Cabinet,Furniture,East,3.0,5950.0,4100.0
+ORD-2024010,2024-02-10,P109,Gel Pen Pack (10x),Office Supplies,South,11.0,235.2,110.0
+ORD-2024120,2024-02-01,P104,Noise-Cancelling Headphones,Electronics,West,4.0,5879.02,3600.0
+ORD-2024158,2024-06-05,P105,Ergonomic Office Chair,Furniture,North,2.0,9999.0,6800.0
+ORD-2024168,2024-02-07,P110,A4 Copier Paper (500s),Office Supplies,East,1.0,320.0,190.0
+ORD-2024034,2024-02-05,P113,Laptop Backpack,Accessories,East,3.0,1599.0,820.0
+ORD-2024006,2024-03-22,P112,USB-C Multiport Hub,Accessories,South,5.0,1999.0,1150.0
+ORD-2024102,2024-05-26,P104,Noise-Cancelling Headphones,Electronics,South,3.0,5699.05,3600.0
+ORD-2024046,2024-07-29,P108,Executive Desk Lamp,Furniture,West,1.0,1499.0,850.0
+ORD-2024178,2024-12-25,P114,Webcam 1080p HD,Accessories,South,11.0,2450.0,1450.0
+ORD-2024119,2024-07-31,P107,Bookshelf Cabinet,Furniture,South,4.0,5652.5,4100.0
+ORD-2024047,2024-02-01,P107,Bookshelf Cabinet,Furniture,West,1.0,5950.0,4100.0
+ORD-2024126,2024-08-27,P103,Mechanical Keyboard,Electronics,Central,1.0,2660.0,1850.0
+ORD-2024196,2024-01-27,P104,Noise-Cancelling Headphones,Electronics,North,2.0,5999.0,3600.0
+ORD-2024252,2024-03-20,P107,Bookshelf Cabinet,Furniture,East,4.0,5831.0,4100.0
+ORD-2024144,2024-09-07,P102,Wireless Mouse,Electronics,South,6.0,712.5,420.0
+ORD-2024233,2024-09-11,P114,Webcam 1080p HD,Accessories,Central,5.0,2450.0,1450.0
+ORD-2024273,2024-07-14,P110,A4 Copier Paper (500s),Office Supplies,East,8.0,313.6,190.0
+ORD-2024249,2024-01-24,P101,Laptop Pro 15,Electronics,South,4.0,55000.0,45000.0
+ORD-2024026,2024-12-15,P109,Gel Pen Pack (10x),Office Supplies,West,13.0,240.0,110.0
+ORD-2024148,2024-08-18,P104,Noise-Cancelling Headphones,Electronics,West,4.0,5999.0,3600.0
+ORD-2024225,2024-09-11,P110,A4 Copier Paper (500s),Office Supplies,North,8.0,320.0,190.0
+ORD-2024004,2024-09-15,P110,A4 Copier Paper (500s),Office Supplies,North,4.0,313.6,190.0
+ORD-2024074,2024-11-20,P107,Bookshelf Cabinet,Furniture,West,1.0,5950.0,4100.0
+ORD-2024286,2024-11-14,P110,A4 Copier Paper (500s),Office Supplies,East,9.0,320.0,190.0
+ORD-2024110,2024-10-12,P104,Noise-Cancelling Headphones,Electronics,Central,1.0,5699.05,3600.0
+ORD-2024141,2024-03-02,P113,Laptop Backpack,Accessories,Central,13.0,1599.0,820.0
+ORD-2024288,2024-04-02,P105,Ergonomic Office Chair,Furniture,West,3.0,9999.0,6800.0
+ORD-2024212,2024-01-19,P103,Mechanical Keyboard,Electronics,South,3.0,2800.0,1850.0
+ORD-2024043,2024-03-08,P112,USB-C Multiport Hub,Accessories,Central,10.0,1959.02,1150.0
+ORD-2024018,2024-05-17,P102,Wireless Mouse,Electronics,North,6.0,750.0,420.0
+ORD-2024283,2024-09-16,P104,Noise-Cancelling Headphones,Electronics,North,4.0,5999.0,3600.0
+ORD-2024077,2024-02-27,P102,Wireless Mouse,Electronics,Central,3.0,735.0,420.0
+ORD-2024091,2024-01-15,P102,Wireless Mouse,Electronics,West,5.0,750.0,420.0
+ORD-2024025,2024-05-08,P109,Gel Pen Pack (10x),Office Supplies,West,1.0,240.0,110.0
+ORD-2024058,2024-09-17,P102,Wireless Mouse,Electronics,West,2.0,735.0,420.0
+ORD-2024093,2024-06-09,P107,Bookshelf Cabinet,Furniture,East,1.0,5652.5,4100.0
+ORD-2024078,2024-01-19,P114,Webcam 1080p HD,Accessories,South,9.0,2450.0,1450.0
+ORD-2024255,2024-12-17,P106,Standing Desk,Furniture,East,3.0,18500.0,12500.0
+ORD-2024117,2024-06-12,P109,Gel Pen Pack (10x),Office Supplies,North,3.0,240.0,110.0
+ORD-2024008,2024-02-19,P106,Standing Desk,Furniture,West,3.0,18500.0,12500.0
+ORD-2024194,2024-01-01,P111,Desk Organizer Tray,Office Supplies,West,8.0,456.0,260.0
+ORD-2024285,2024-05-22,P110,A4 Copier Paper (500s),Office Supplies,North,7.0,313.6,190.0
+ORD-2024079,2024-08-08,P103,Mechanical Keyboard,Electronics,North,3.0,2800.0,1850.0
+ORD-2024296,2024-05-19,P104,Noise-Cancelling Headphones,Electronics,West,1.0,5999.0,3600.0
+ORD-2024238,2024-05-31,P106,Standing Desk,Furniture,West,2.0,18500.0,12500.0
+ORD-2024224,2024-11-08,P114,Webcam 1080p HD,Accessories,South,11.0,2450.0,1450.0
+ORD-2024292,2024-03-21,P106,Standing Desk,Furniture,South,3.0,18130.0,12500.0
+ORD-2024064,2024-06-10,P113,Laptop Backpack,Accessories,Central,1.0,1519.05,820.0
+ORD-2024083,2024-07-30,P101,Laptop Pro 15,Electronics,North,3.0,52250.0,45000.0
+ORD-2024193,2024-06-14,P102,Wireless Mouse,Electronics,Central,7.0,735.0,420.0
+ORD-2024239,2024-03-08,P113,Laptop Backpack,Accessories,East,6.0,1567.02,820.0
+ORD-2024222,2024-08-08,P103,Mechanical Keyboard,Electronics,North,4.0,2744.0,1850.0
+ORD-2024105,2024-04-30,P111,Desk Organizer Tray,Office Supplies,South,13.0,480.0,260.0
+ORD-2024992,2024-02-11,P108,Executive Desk Lamp,Furniture,North,,1499.0,850.0
+ORD-2024197,2024-08-12,P112,USB-C Multiport Hub,Accessories,South,1.0,1959.02,1150.0
+ORD-2024231,2024-05-31,P112,USB-C Multiport Hub,Accessories,South,14.0,1899.05,1150.0
+ORD-2024272,2024-11-15,P111,Desk Organizer Tray,Office Supplies,East,12.0,480.0,260.0
+ORD-2024214,2024-03-14,P107,Bookshelf Cabinet,Furniture,West,2.0,5950.0,4100.0
+ORD-2024245,2024-10-26,P107,Bookshelf Cabinet,Furniture,West,3.0,5950.0,4100.0
+ORD-2024076,2024-08-14,P109,Gel Pen Pack (10x),Office Supplies,West,9.0,240.0,110.0
+ORD-2024180,2024-08-05,P102,Wireless Mouse,Electronics,East,3.0,750.0,420.0
+ORD-2024060,2024-10-18,P104,Noise-Cancelling Headphones,Electronics,East,1.0,5879.02,3600.0
+ORD-2024094,2024-10-22,P104,Noise-Cancelling Headphones,Electronics,North,4.0,5999.0,3600.0
+ORD-2024007,2024-04-20,P113,Laptop Backpack,Accessories,South,2.0,1519.05,820.0
+ORD-2024181,2024-03-13,P102,Wireless Mouse,Electronics,North,5.0,735.0,420.0
+ORD-2024031,2024-01-01,P110,A4 Copier Paper (500s),Office Supplies,South,1.0,320.0,190.0
+ORD-2024023,2024-03-19,P111,Desk Organizer Tray,Office Supplies,North,11.0,456.0,260.0
+ORD-2024261,2024-11-01,P101,Laptop Pro 15,Electronics,North,2.0,55000.0,45000.0
+ORD-2024057,2024-10-26,P108,Executive Desk Lamp,Furniture,South,3.0,1499.0,850.0
+ORD-2024248,2024-12-24,P105,Ergonomic Office Chair,Furniture,East,1.0,9999.0,6800.0
+ORD-2024115,2024-09-23,P108,Executive Desk Lamp,Furniture,East,5.0,1424.05,850.0
+ORD-2024133,2024-01-16,P104,Noise-Cancelling Headphones,Electronics,North,1.0,5879.02,3600.0
+ORD-2024241,2024-05-31,P112,USB-C Multiport Hub,Accessories,West,13.0,1999.0,1150.0
+ORD-2024205,2024-09-16,P105,Ergonomic Office Chair,Furniture,West,3.0,9999.0,6800.0
+ORD-2024276,2024-06-22,P114,Webcam 1080p HD,Accessories,South,7.0,2450.0,1450.0
+ORD-2024166,2024-09-02,P108,Executive Desk Lamp,Furniture,South,1.0,1499.0,850.0
+ORD-2024221,2024-06-15,P113,Laptop Backpack,Accessories,North,6.0,1599.0,820.0
+ORD-2024085,2024-03-22,P113,Laptop Backpack,Accessories,West,7.0,1599.0,820.0
+ORD-2024067,2024-02-05,P104,Noise-Cancelling Headphones,Electronics,South,2.0,5699.05,3600.0
+ORD-2024114,2024-08-31,P108,Executive Desk Lamp,Furniture,North,4.0,1499.0,850.0
+ORD-2024169,2024-03-17,P113,Laptop Backpack,Accessories,East,5.0,1599.0,820.0
+ORD-2024147,2024-05-17,P106,Standing Desk,Furniture,West,1.0,18500.0,12500.0
+ORD-2024020,2024-05-15,P103,Mechanical Keyboard,Electronics,North,3.0,2744.0,1850.0
+ORD-2024145,2024-12-28,P103,Mechanical Keyboard,Electronics,South,3.0,2744.0,1850.0
+ORD-2024080,2024-07-02,P104,Noise-Cancelling Headphones,Electronics,East,1.0,5999.0,3600.0
+ORD-2024256,2024-07-22,P105,Ergonomic Office Chair,Furniture,North,1.0,9499.05,6800.0
+ORD-2024125,2024-01-15,P107,Bookshelf Cabinet,Furniture,South,4.0,5950.0,4100.0
+ORD-2024073,2024-09-07,P105,Ergonomic Office Chair,Furniture,Central,1.0,9999.0,6800.0
+ORD-2024016,2024-03-24,P108,Executive Desk Lamp,Furniture,South,4.0,1499.0,850.0
+ORD-2024011,2024-07-04,P110,A4 Copier Paper (500s),Office Supplies,North,2.0,320.0,190.0
+ORD-2024165,2024-02-22,P114,Webcam 1080p HD,Accessories,North,5.0,2327.5,1450.0
+ORD-2024250,2024-02-19,P104,Noise-Cancelling Headphones,Electronics,West,2.0,5699.05,3600.0
+ORD-2024098,2024-09-16,P105,Ergonomic Office Chair,Furniture,East,3.0,9499.05,6800.0
+ORD-2024069,2024-01-05,P111,Desk Organizer Tray,Office Supplies,West,5.0,480.0,260.0
+ORD-2024234,2024-11-06,P113,Laptop Backpack,Accessories,South,11.0,1599.0,820.0
+ORD-2024038,2024-08-12,P109,Gel Pen Pack (10x),Office Supplies,South,4.0,240.0,110.0
+ORD-2024017,2024-01-29,P104,Noise-Cancelling Headphones,Electronics,West,3.0,5699.05,3600.0
+ORD-2024127,2024-10-30,P110,A4 Copier Paper (500s),Office Supplies,East,2.0,304.0,190.0
+ORD-2024153,2024-10-11,P113,Laptop Backpack,Accessories,North,8.0,1519.05,820.0
+ORD-2024290,2024-12-02,P107,Bookshelf Cabinet,Furniture,North,1.0,5950.0,4100.0
+ORD-2024068,2024-10-05,P112,USB-C Multiport Hub,Accessories,South,13.0,1959.02,1150.0
+ORD-2024109,2024-08-05,P104,Noise-Cancelling Headphones,Electronics,North,4.0,5999.0,3600.0
+ORD-2024070,2024-03-09,P105,Ergonomic Office Chair,Furniture,North,1.0,9799.02,6800.0
+ORD-2024032,2024-07-04,P114,Webcam 1080p HD,Accessories,West,4.0,2450.0,1450.0
+ORD-2024182,2024-10-18,P105,Ergonomic Office Chair,Furniture,South,4.0,9999.0,6800.0
+ORD-2024156,2024-07-07,P108,Executive Desk Lamp,Furniture,East,6.0,1424.05,850.0
+ORD-2024235,2024-11-13,P105,Ergonomic Office Chair,Furniture,East,2.0,9999.0,6800.0
+ORD-2024299,2024-01-29,P101,Laptop Pro 15,Electronics,North,2.0,55000.0,45000.0
+ORD-2024019,2024-12-01,P108,Executive Desk Lamp,Furniture,South,8.0,1499.0,850.0
+ORD-2024046,2024-07-29,P108,Executive Desk Lamp,Furniture,West,1.0,1499.0,850.0
+ORD-2024097,2024-06-09,P111,Desk Organizer Tray,Office Supplies,West,12.0,480.0,260.0
+ORD-2024138,2024-10-21,P111,Desk Organizer Tray,Office Supplies,Central,7.0,456.0,260.0
+ORD-2024293,2024-11-01,P102,Wireless Mouse,Electronics,West,3.0,750.0,420.0
+ORD-2024087,2024-06-05,P114,Webcam 1080p HD,Accessories,West,4.0,2450.0,1450.0
+ORD-2024259,2024-10-16,P104,Noise-Cancelling Headphones,Electronics,North,2.0,5879.02,3600.0
+ORD-2024173,2024-08-07,P105,Ergonomic Office Chair,Furniture,East,1.0,9799.02,6800.0
+ORD-2024210,2024-01-23,P106,Standing Desk,Furniture,West,4.0,17575.0,12500.0
+ORD-2024260,2024-04-20,P114,Webcam 1080p HD,Accessories,West,6.0,2450.0,1450.0
+ORD-2024295,2024-12-04,P107,Bookshelf Cabinet,Furniture,South,4.0,5652.5,4100.0
+ORD-2024140,2024-12-22,P113,Laptop Backpack,Accessories,South,11.0,1567.02,820.0
+ORD-2024243,2024-10-12,P106,Standing Desk,Furniture,North,4.0,18500.0,12500.0
+ORD-2024056,2024-10-04,P101,Laptop Pro 15,Electronics,West,1.0,55000.0,45000.0
+ORD-2024174,2024-02-20,P113,Laptop Backpack,Accessories,North,4.0,1599.0,820.0
+ORD-2024291,2024-09-28,P104,Noise-Cancelling Headphones,Electronics,South,4.0,5999.0,3600.0
+ORD-2024195,2024-01-28,P104,Noise-Cancelling Headphones,Electronics,South,4.0,5699.05,3600.0
+ORD-2024269,2024-02-01,P108,Executive Desk Lamp,Furniture,West,7.0,1499.0,850.0
+ORD-2024130,2024-07-13,P105,Ergonomic Office Chair,Furniture,West,4.0,9999.0,6800.0
+ORD-2024039,2024-02-02,P106,Standing Desk,Furniture,North,2.0,18130.0,12500.0
+ORD-2024203,2024-04-07,P110,A4 Copier Paper (500s),Office Supplies,South,15.0,320.0,190.0
+ORD-2024176,2024-02-08,P103,Mechanical Keyboard,Electronics,North,4.0,2744.0,1850.0
+ORD-2024187,2024-01-21,P113,Laptop Backpack,Accessories,West,8.0,1567.02,820.0
+ORD-2024113,2024-09-15,P107,Bookshelf Cabinet,Furniture,West,4.0,5950.0,4100.0
+ORD-2024257,2024-02-16,P111,Desk Organizer Tray,Office Supplies,North,11.0,470.4,260.0
+ORD-2024118,2024-07-15,P112,USB-C Multiport Hub,Accessories,North,4.0,1999.0,1150.0
+ORD-2024284,2024-02-25,P106,Standing Desk,Furniture,West,3.0,18500.0,12500.0
+ORD-2024278,2024-03-19,P111,Desk Organizer Tray,Office Supplies,Central,2.0,480.0,260.0
+ORD-2024289,2024-06-28,P101,Laptop Pro 15,Electronics,North,2.0,53900.0,45000.0
+ORD-2024184,2024-02-11,P110,A4 Copier Paper (500s),Office Supplies,North,7.0,320.0,190.0
+ORD-2024186,2024-10-27,P101,Laptop Pro 15,Electronics,Central,3.0,53900.0,45000.0
+ORD-2024003,2024-08-04,P101,Laptop Pro 15,Electronics,North,2.0,55000.0,45000.0
+ORD-2024116,2024-02-09,P112,USB-C Multiport Hub,Accessories,South,5.0,1999.0,1150.0
+ORD-2024149,2024-01-15,P108,Executive Desk Lamp,Furniture,West,3.0,1424.05,850.0
+ORD-2024185,2024-11-05,P105,Ergonomic Office Chair,Furniture,North,2.0,9799.02,6800.0
+ORD-2024121,2024-12-22,P101,Laptop Pro 15,Electronics,West,4.0,52250.0,45000.0
+ORD-2024220,2024-08-15,P103,Mechanical Keyboard,Electronics,East,1.0,2800.0,1850.0
+ORD-2024266,2024-08-17,P113,Laptop Backpack,Accessories,South,10.0,1599.0,820.0
+ORD-2024128,2024-03-10,P114,Webcam 1080p HD,Accessories,South,1.0,2450.0,1450.0
+ORD-2024075,2024-06-19,P113,Laptop Backpack,Accessories,North,5.0,1599.0,820.0
+ORD-2024030,2024-07-10,P113,Laptop Backpack,Accessories,North,13.0,1567.02,820.0
+ORD-2024084,2024-12-08,P114,Webcam 1080p HD,Accessories,West,4.0,2450.0,1450.0
+ORD-2024254,2024-08-15,P108,Executive Desk Lamp,Furniture,Central,6.0,1499.0,850.0
+ORD-2024108,2024-09-10,P107,Bookshelf Cabinet,Furniture,North,1.0,5950.0,4100.0
+ORD-2024159,2024-03-02,P112,USB-C Multiport Hub,Accessories,East,13.0,1999.0,1150.0
+ORD-2024164,2024-10-10,P105,Ergonomic Office Chair,Furniture,East,2.0,9499.05,6800.0
+ORD-2024134,2024-03-19,P104,Noise-Cancelling Headphones,Electronics,North,1.0,5879.02,3600.0
+ORD-2024198,2024-05-02,P112,USB-C Multiport Hub,Accessories,North,9.0,1999.0,1150.0
+ORD-2024226,2024-08-23,P105,Ergonomic Office Chair,Furniture,East,4.0,9999.0,6800.0
+ORD-2024066,2024-04-19,P109,Gel Pen Pack (10x),Office Supplies,North,15.0,240.0,110.0
+ORD-2024207,2024-08-16,P109,Gel Pen Pack (10x),Office Supplies,South,6.0,235.2,110.0
+ORD-2024086,2024-08-28,P104,Noise-Cancelling Headphones,Electronics,North,4.0,5999.0,3600.0
+ORD-2024223,2024-12-15,P113,Laptop Backpack,Accessories,North,3.0,1599.0,820.0
+ORD-2024160,2024-04-08,P104,Noise-Cancelling Headphones,Electronics,West,3.0,5879.02,3600.0
+ORD-2024013,2024-02-21,P107,Bookshelf Cabinet,Furniture,North,3.0,5950.0,4100.0
+ORD-2024036,2024-09-27,P114,Webcam 1080p HD,Accessories,East,4.0,2401.0,1450.0
+ORD-2024029,2024-11-16,P105,Ergonomic Office Chair,Furniture,West,2.0,9999.0,6800.0
+ORD-2024171,2024-11-01,P113,Laptop Backpack,Accessories,East,13.0,1567.02,820.0
+ORD-2024143,2024-09-16,P111,Desk Organizer Tray,Office Supplies,South,14.0,456.0,260.0
+ORD-2024199,2024-10-09,P107,Bookshelf Cabinet,Furniture,North,1.0,5652.5,4100.0
+ORD-2024132,2024-04-24,P111,Desk Organizer Tray,Office Supplies,North,11.0,480.0,260.0
+ORD-2024177,2024-08-28,P105,Ergonomic Office Chair,Furniture,North,3.0,9999.0,6800.0
+ORD-2024052,2024-07-24,P101,Laptop Pro 15,Electronics,North,1.0,52250.0,45000.0
+ORD-2024096,2024-07-05,P107,Bookshelf Cabinet,Furniture,North,3.0,5831.0,4100.0
+ORD-2024232,2024-05-20,P101,Laptop Pro 15,Electronics,East,1.0,53900.0,45000.0
+ORD-2024179,2024-05-15,P113,Laptop Backpack,Accessories,West,10.0,1599.0,820.0
+ORD-2024230,2024-02-24,P104,Noise-Cancelling Headphones,Electronics,South,3.0,5879.02,3600.0
+ORD-2024042,2024-05-01,P105,Ergonomic Office Chair,Furniture,East,2.0,9799.02,6800.0
+ORD-2024090,2024-07-23,P111,Desk Organizer Tray,Office Supplies,Central,9.0,480.0,260.0
+ORD-2024227,2024-12-12,P109,Gel Pen Pack (10x),Office Supplies,North,8.0,240.0,110.0
+ORD-2024137,2024-03-24,P105,Ergonomic Office Chair,Furniture,North,1.0,9999.0,6800.0
+ORD-2024027,2024-02-27,P105,Ergonomic Office Chair,Furniture,South,4.0,9999.0,6800.0
+ORD-2024300,2024-05-10,P105,Ergonomic Office Chair,Furniture,South,1.0,9499.05,6800.0
+ORD-2024142,2024-06-26,P109,Gel Pen Pack (10x),Office Supplies,South,6.0,240.0,110.0
+ORD-2024209,2024-12-23,P104,Noise-Cancelling Headphones,Electronics,East,2.0,5699.05,3600.0
+ORD-2024001,2024-11-23,P102,Wireless Mouse,Electronics,North,5.0,750.0,420.0
+ORD-2024275,2024-04-20,P107,Bookshelf Cabinet,Furniture,South,2.0,5652.5,4100.0
+ORD-2024279,2024-02-13,P102,Wireless Mouse,Electronics,South,6.0,750.0,420.0
+ORD-2024101,2024-10-18,P105,Ergonomic Office Chair,Furniture,South,1.0,9999.0,6800.0
+ORD-2024268,2024-12-03,P109,Gel Pen Pack (10x),Office Supplies,South,11.0,240.0,110.0
+ORD-2024104,2024-12-03,P102,Wireless Mouse,Electronics,South,6.0,750.0,420.0
+ORD-2024172,2024-07-13,P108,Executive Desk Lamp,Furniture,Central,5.0,1469.02,850.0
+ORD-2024099,2024-12-22,P105,Ergonomic Office Chair,Furniture,East,2.0,9499.05,6800.0
+ORD-2024037,2024-12-19,P104,Noise-Cancelling Headphones,Electronics,West,4.0,5999.0,3600.0
+ORD-2024062,2024-04-14,P111,Desk Organizer Tray,Office Supplies,West,4.0,480.0,260.0
+ORD-2024151,2024-11-01,P112,USB-C Multiport Hub,Accessories,West,9.0,1999.0,1150.0
+ORD-2024247,2024-04-23,P111,Desk Organizer Tray,Office Supplies,North,14.0,456.0,260.0
+ORD-2024211,2024-12-05,P113,Laptop Backpack,Accessories,West,3.0,1519.05,820.0
+ORD-2024287,2024-11-07,P111,Desk Organizer Tray,Office Supplies,West,5.0,480.0,260.0
+ORD-2024012,2024-12-04,P104,Noise-Cancelling Headphones,Electronics,West,1.0,5999.0,3600.0
+ORD-2024991,2024-02-05,P113,Laptop Backpack,Accessories,,11.0,1567.02,820.0
+ORD-2024201,2024-09-17,P112,USB-C Multiport Hub,Accessories,North,14.0,1899.05,1150.0
+ORD-2024274,2024-11-05,P107,Bookshelf Cabinet,Furniture,North,1.0,5831.0,4100.0
+ORD-2024028,2024-05-14,P109,Gel Pen Pack (10x),Office Supplies,West,9.0,240.0,110.0
+ORD-2024229,2024-08-21,P114,Webcam 1080p HD,Accessories,South,7.0,2327.5,1450.0
+ORD-2024005,2024-08-02,P104,Noise-Cancelling Headphones,Electronics,South,3.0,5999.0,3600.0
+ORD-2024123,2024-10-02,P112,USB-C Multiport Hub,Accessories,West,13.0,1959.02,1150.0
+ORD-2024033,2024-05-03,P110,A4 Copier Paper (500s),Office Supplies,Central,2.0,304.0,190.0
+ORD-2024240,2024-09-13,P105,Ergonomic Office Chair,Furniture,West,3.0,9499.05,6800.0
+ORD-2024163,2024-12-28,P109,Gel Pen Pack (10x),Office Supplies,North,1.0,240.0,110.0
+ORD-2024219,2024-04-26,P112,USB-C Multiport Hub,Accessories,North,2.0,1999.0,1150.0
+ORD-2024262,2024-10-03,P105,Ergonomic Office Chair,Furniture,West,1.0,9999.0,6800.0
+ORD-2024139,2024-04-11,P102,Wireless Mouse,Electronics,East,4.0,750.0,420.0
+ORD-2024063,2024-07-21,P103,Mechanical Keyboard,Electronics,East,3.0,2660.0,1850.0
+ORD-2024216,2024-12-20,P107,Bookshelf Cabinet,Furniture,East,3.0,5831.0,4100.0
+ORD-2024136,2024-11-06,P110,A4 Copier Paper (500s),Office Supplies,Central,12.0,320.0,190.0
+ORD-2024129,2024-07-13,P106,Standing Desk,Furniture,North,3.0,18500.0,12500.0
+ORD-2024297,2024-08-08,P102,Wireless Mouse,Electronics,South,8.0,735.0,420.0
+ORD-2024009,2024-08-23,P109,Gel Pen Pack (10x),Office Supplies,North,15.0,228.0,110.0
+ORD-2024071,2024-03-20,P105,Ergonomic Office Chair,Furniture,South,2.0,9999.0,6800.0
+ORD-2024281,2024-07-29,P106,Standing Desk,Furniture,West,4.0,18500.0,12500.0
+ORD-2024065,2024-11-14,P110,A4 Copier Paper (500s),Office Supplies,Central,2.0,313.6,190.0
+ORD-2024045,2024-02-18,P102,Wireless Mouse,Electronics,East,6.0,712.5,420.0
+ORD-2024246,2024-12-11,P104,Noise-Cancelling Headphones,Electronics,South,3.0,5879.02,3600.0
+ORD-2024157,2024-10-08,P106,Standing Desk,Furniture,South,4.0,18500.0,12500.0
+ORD-2024041,2024-02-04,P101,Laptop Pro 15,Electronics,West,1.0,53900.0,45000.0
+ORD-2024124,2024-04-22,P108,Executive Desk Lamp,Furniture,North,7.0,1424.05,850.0
+ORD-2024282,2024-05-27,P110,A4 Copier Paper (500s),Office Supplies,South,2.0,313.6,190.0
+ORD-2024217,2024-07-13,P106,Standing Desk,Furniture,East,4.0,18130.0,12500.0
+ORD-2024154,2024-08-17,P113,Laptop Backpack,Accessories,North,5.0,1599.0,820.0
+ORD-2024024,2024-11-01,P102,Wireless Mouse,Electronics,South,8.0,735.0,420.0
+ORD-2024267,2024-08-19,P109,Gel Pen Pack (10x),Office Supplies,North,10.0,240.0,110.0
+ORD-2024111,2024-03-09,P113,Laptop Backpack,Accessories,South,9.0,1567.02,820.0
+ORD-2024082,2024-05-01,P114,Webcam 1080p HD,Accessories,North,13.0,2450.0,1450.0
+ORD-2024237,2024-01-18,P110,A4 Copier Paper (500s),Office Supplies,South,3.0,320.0,190.0
+ORD-2024208,2024-10-05,P107,Bookshelf Cabinet,Furniture,South,3.0,5950.0,4100.0
+ORD-2024213,2024-08-13,P102,Wireless Mouse,Electronics,East,8.0,750.0,420.0
+ORD-2024040,2024-04-22,P101,Laptop Pro 15,Electronics,North,1.0,55000.0,45000.0
+ORD-2024251,2024-08-20,P106,Standing Desk,Furniture,East,4.0,18130.0,12500.0
+ORD-2024298,2024-12-07,P105,Ergonomic Office Chair,Furniture,North,4.0,9799.02,6800.0
+ORD-2024263,2024-03-08,P101,Laptop Pro 15,Electronics,South,2.0,53900.0,45000.0
+ORD-2024200,2024-03-01,P111,Desk Organizer Tray,Office Supplies,West,8.0,480.0,260.0
+ORD-2024015,2024-11-07,P111,Desk Organizer Tray,Office Supplies,North,12.0,480.0,260.0
+ORD-2024048,2024-04-08,P104,Noise-Cancelling Headphones,Electronics,East,2.0,5699.05,3600.0
+ORD-2024095,2024-09-23,P113,Laptop Backpack,Accessories,East,12.0,1599.0,820.0
+ORD-2024270,2024-09-08,P112,USB-C Multiport Hub,Accessories,Central,2.0,1999.0,1150.0
+ORD-2024228,2024-10-27,P105,Ergonomic Office Chair,Furniture,East,4.0,9999.0,6800.0
+ORD-2024280,2024-10-11,P101,Laptop Pro 15,Electronics,East,3.0,55000.0,45000.0
+ORD-2024202,2024-08-29,P104,Noise-Cancelling Headphones,Electronics,South,2.0,5699.05,3600.0
+ORD-2024162,2024-05-31,P104,Noise-Cancelling Headphones,Electronics,South,3.0,5999.0,3600.0
+ORD-2024044,2024-08-30,P104,Noise-Cancelling Headphones,Electronics,West,4.0,5999.0,3600.0
+ORD-2024218,2024-01-19,P110,A4 Copier Paper (500s),Office Supplies,North,11.0,320.0,190.0
+ORD-2024146,2024-10-02,P113,Laptop Backpack,Accessories,South,7.0,1567.02,820.0
+ORD-2024191,2024-06-17,P107,Bookshelf Cabinet,Furniture,East,3.0,5652.5,4100.0
+ORD-2024106,2024-03-16,P101,Laptop Pro 15,Electronics,North,4.0,53900.0,45000.0
+ORD-2024054,2024-12-22,P112,USB-C Multiport Hub,Accessories,Central,9.0,1899.05,1150.0
+ORD-2024002,2024-04-24,P103,Mechanical Keyboard,Electronics,West,1.0,2744.0,1850.0
+ORD-2024050,2024-10-08,P102,Wireless Mouse,Electronics,North,1.0,750.0,420.0
+ORD-2024081,2024-10-13,P114,Webcam 1080p HD,Accessories,South,10.0,2450.0,1450.0
+ORD-2024206,2024-10-27,P110,A4 Copier Paper (500s),Office Supplies,Central,8.0,320.0,190.0
+ORD-2024035,2024-12-03,P108,Executive Desk Lamp,Furniture,Central,3.0,1499.0,850.0
+ORD-2024264,2024-06-14,P101,Laptop Pro 15,Electronics,North,1.0,55000.0,45000.0
+ORD-2024092,2024-10-24,P105,Ergonomic Office Chair,Furniture,North,4.0,9999.0,6800.0
+ORD-2024053,2024-05-15,P113,Laptop Backpack,Accessories,West,5.0,1519.05,820.0
+ORD-2024265,2024-08-03,P109,Gel Pen Pack (10x),Office Supplies,North,2.0,228.0,110.0
+ORD-2024242,2024-08-27,P102,Wireless Mouse,Electronics,North,4.0,712.5,420.0
+ORD-2024014,2024-07-08,P106,Standing Desk,Furniture,North,3.0,18500.0,12500.0
+ORD-2024089,2024-02-05,P113,Laptop Backpack,Accessories,North,11.0,1567.02,820.0
+ORD-2024167,2024-09-01,P102,Wireless Mouse,Electronics,West,7.0,712.5,420.0
+ORD-2024013,2024-02-21,P107,Bookshelf Cabinet,Furniture,North,3.0,5950.0,4100.0
+ORD-2024135,2024-04-21,P108,Executive Desk Lamp,Furniture,East,6.0,1499.0,850.0
+ORD-2024294,2024-11-12,P101,Laptop Pro 15,Electronics,East,3.0,52250.0,45000.0
+ORD-2024244,2024-05-15,P109,Gel Pen Pack (10x),Office Supplies,North,6.0,240.0,110.0
+ORD-2024055,2024-03-20,P104,Noise-Cancelling Headphones,Electronics,South,1.0,5879.02,3600.0
+ORD-2024051,2024-05-01,P103,Mechanical Keyboard,Electronics,South,4.0,2800.0,1850.0
+ORD-2024175,2024-12-04,P102,Wireless Mouse,Electronics,North,3.0,735.0,420.0
+ORD-2024190,2024-06-27,P107,Bookshelf Cabinet,Furniture,South,1.0,5950.0,4100.0
+ORD-2024993,2024-02-08,P103,Mechanical Keyboard,Electronics,North,-5.0,2744.0,1850.0
+ORD-2024188,2024-11-29,P108,Executive Desk Lamp,Furniture,Central,3.0,1469.02,850.0
+ORD-2024170,2024-05-07,P102,Wireless Mouse,Electronics,East,7.0,735.0,420.0
+ORD-2024059,2024-02-04,P111,Desk Organizer Tray,Office Supplies,West,7.0,480.0,260.0
+ORD-2024049,2024-04-03,P105,Ergonomic Office Chair,Furniture,South,1.0,9499.05,6800.0
+ORD-2024236,2024-11-17,P111,Desk Organizer Tray,Office Supplies,North,13.0,456.0,260.0
+ORD-2024253,2024-07-27,P105,Ergonomic Office Chair,Furniture,North,3.0,9999.0,6800.0
+ORD-2024022,2024-09-17,P108,Executive Desk Lamp,Furniture,North,1.0,1499.0,850.0
+ORD-2024161,2024-09-25,P110,A4 Copier Paper (500s),Office Supplies,South,2.0,320.0,190.0
+ORD-2024277,2024-06-09,P107,Bookshelf Cabinet,Furniture,South,3.0,5950.0,4100.0
+ORD-2024192,2024-10-08,P101,Laptop Pro 15,Electronics,South,3.0,55000.0,45000.0
+ORD-2024258,2024-01-11,P101,Laptop Pro 15,Electronics,West,2.0,55000.0,45000.0
+ORD-2024150,2024-04-18,P106,Standing Desk,Furniture,West,3.0,18500.0,12500.0
+ORD-2024131,2024-02-11,P108,Executive Desk Lamp,Furniture,North,1.0,1499.0,850.0
+ORD-2024152,2024-09-21,P104,Noise-Cancelling Headphones,Electronics,North,4.0,5699.05,3600.0
+ORD-2024100,2024-12-06,P107,Bookshelf Cabinet,Furniture,East,2.0,5831.0,4100.0
+ORD-2024088,2024-01-13,P111,Desk Organizer Tray,Office Supplies,North,6.0,480.0,260.0
+ORD-2024215,2024-08-28,P113,Laptop Backpack,Accessories,Central,6.0,1567.02,820.0
+ORD-2024122,2024-01-04,P106,Standing Desk,Furniture,South,4.0,17575.0,12500.0
+ORD-2024994,2024-12-05,P113,Laptop Backpack,Accessories,West,3.0,0.0,820.0
+ORD-2024021,2024-08-07,P110,A4 Copier Paper (500s),Office Supplies,South,4.0,320.0,190.0
+ORD-2024189,2024-08-11,P111,Desk Organizer Tray,Office Supplies,West,2.0,456.0,260.0
+ORD-2024072,2024-04-14,P111,Desk Organizer Tray,Office Supplies,East,5.0,470.4,260.0
+ORD-2024107,2024-02-07,P108,Executive Desk Lamp,Furniture,South,4.0,1424.05,850.0
+ORD-2024271,2024-06-13,P110,A4 Copier Paper (500s),Office Supplies,North,3.0,320.0,190.0
+ORD-2024103,2024-08-14,P108,Executive Desk Lamp,Furniture,East,8.0,1499.0,850.0
